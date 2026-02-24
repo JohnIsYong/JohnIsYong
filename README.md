@@ -1,6 +1,6 @@
 ## Hi there 🌟
 
-I go by John and I am an aspiring developer based in the Philippines.
+I go by John and I am an aspiring developer based in the Philippines with Korean heritage but raised in the USA.
 
 One of my favorite feelings is when I get my program to run after encountering issues.
 
